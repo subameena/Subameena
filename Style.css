@@ -37,6 +37,9 @@ h1 span{
 	border-collapse: collapse;
 	background-image: url("Border.png");
 	background-size: cover;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	position: relative;
 }
 #Myprofile{
 	background-color: #c7f1ff;
