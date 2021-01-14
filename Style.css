@@ -36,6 +36,7 @@ h1 span{
 	background-color: #c7f1ff;
 	border-collapse: collapse;
 	background-image: url("Border.png");
+	background-size: cover;
 }
 #Myprofile{
 	background-color: #c7f1ff;
