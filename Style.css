@@ -3,10 +3,10 @@
 	font-family: Tahoma;
 	color:#001153;
 	}
-/*table,tr,td, th{
+table,tr,td, th{
 	border: 1px solid #0b96db;
 	border-collapse: collapse;
-}*/
+}
 #HeaderHighlights, #HeaderHighlights td{
 	width:100%;
 	background-color:#eee;
