@@ -57,7 +57,7 @@ h1 span{
 }
 #Highlights{
 	text-align: center;
-	background-color:#eee;
+	/*background-color:#eee;*/
 	}
 #Highlightsheader{
 	text-align: center;
@@ -65,17 +65,17 @@ h1 span{
 	font-size: 13px;
 	padding-left: 20px;
 	padding-right: 20px;
-	background-color:#eee;
+	/*background-color:#eee;*/
 	padding-top: 20px;
 }
 #HighlightsTable{
 	text-align: center;
-	background-color:#eee;
+	/*background-color:#eee;*/
 	font-size: 18px;
 	width:100%;
 }
 #HighlightsTable table, #HighlightsTable tr, #HighlightsTable td{
-	background-color:#eee;
+	/*background-color:#eee;*/
 	text-align: left;
 	font-size: 12px;
 	padding-left: 30px;
@@ -83,7 +83,7 @@ h1 span{
 	padding-top: 20px;
 }
 .highlightstick{
-	background-color:#eee;
+	/*background-color:#eee;*/
 }
 #mybadgestable{
 		padding-top:30px;
