@@ -17,6 +17,11 @@
 	border-collapse: collapse;
 	font-size: 15px;
 	text-align: left;
+	background-image: url("Border1.png");
+	background-size: cover;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	position: relative;
 }
 h1{
 	/*background: #c7f1ff; */
@@ -35,11 +40,6 @@ h1 span{
 	width: 100%;
 	/*background-color: #c7f1ff;*/
 	border-collapse: collapse;
-	background-image: url("Border1.png");
-	background-size: cover;
-	background-position: center;
-  	background-repeat: no-repeat;
-  	position: relative;
 }
 #Myprofile{
 	/*background-color: #c7f1ff;*/
