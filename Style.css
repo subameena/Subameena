@@ -29,6 +29,7 @@ h1{
 	padding-top: 40px;
 	padding-bottom: 35px;
 	padding-left: 220px;
+	Font-family: Helvetica;
 	Color: #001153;
 	}
 h1 span{
@@ -36,7 +37,8 @@ h1 span{
 	font-size: 20px;
 	line-height: 0px;
 	text-decoration: underline;
-	Color: #001153;
+	Font-family: Helvetica;
+	Color: #010c8a;
 	}
 #header th{
 	width: 100%;
