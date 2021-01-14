@@ -25,7 +25,7 @@
 }
 h1{
 	/*background: #c7f1ff; */
-	font-size: 30px;
+	font-size: 35px;
 	padding-top: 40px;
 	padding-bottom: 40px;
 	padding-left: 320px;
@@ -34,7 +34,8 @@ h1{
 	}
 h1 span{
 	/*background: #c7f1ff;*/
-	font-size: 13px;
+	font-family: Lucida Sans;
+	font-size: 15px;
 	line-height: 0px;
 	text-decoration: underline;
 	Color: #010c8a;
@@ -58,6 +59,7 @@ h1 span{
 	}
 #Highlightsheader{
 	text-align: center;
+	font-family: Lucida Sans;
 	font-size: 13px;
 	padding-left: 20px;
 	padding-right: 20px;
