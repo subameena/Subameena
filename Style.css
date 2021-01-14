@@ -25,19 +25,18 @@
 }
 h1{
 	/*background: #c7f1ff; */
-	font-size: 40px;
+	font-size: 30px;
 	padding-top: 40px;
-	padding-bottom: 30px;
+	padding-bottom: 40px;
 	padding-left: 320px;
 	Font-family: Helvetica;
 	Color: #001153;
 	}
 h1 span{
 	/*background: #c7f1ff;*/
-	font-size: 10px;
+	font-size: 13px;
 	line-height: 0px;
 	text-decoration: underline;
-	Font-family: Helvetica;
 	Color: #010c8a;
 	}
 #header th{
