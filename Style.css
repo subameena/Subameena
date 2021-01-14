@@ -9,9 +9,9 @@ table,tr,td, th{
 }
 #HeaderHighlights, #HeaderHighlights td{
 	width:100%;
-	background-color:#eee;
+	/*background-color: #c7f1ff;
+	background-color:#eee;*/
 	text-align: center;
-	/*background-color: #c7f1ff;*/
 }
 #header{
 	height:500px;
