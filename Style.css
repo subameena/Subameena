@@ -1,0 +1,141 @@
+*{
+	font-family: Tahoma;
+	color:#001153;
+	}
+/*table,tr,td, th{
+	border: 1px solid #0b96db;
+	border-collapse: collapse;
+}*/
+#HeaderHighlights{
+	width:100%;
+	text-align: center;
+	background-image: url("Border1.png");
+	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+  	position: relative;
+}
+#header{
+	height:400px;
+	width: 100%;
+}
+h1{
+	font-size: 35px;
+	padding-top: 55px;
+	padding-left: 480px;
+	Font-family: Helvetica;
+	Color: #001153;
+	}
+h1 span{
+	font-family: Helvetica;
+	font-size: 13px;
+	line-height: 0px;
+	Color: #010c8a;
+	}
+#Myprofile{
+	border: 6px solid #fff;
+	box-shadow:  0 0 7px 5px rgba(0,0,0,0.1);
+	border-radius:100px;
+}
+#Highlights{
+	text-align: center;
+	}
+#Highlightsheader{
+	font-family: Helvetica;
+	text-align: center;
+	line-height: 26px;	
+	font-size: 13px;
+	padding-left: 260px;
+	padding-right: 20px;
+}
+#HighlightsTable {
+	text-align: left;
+	font-size: 12px;
+	padding-left: 200px;
+	padding-right: 20px;
+}
+#HighlightsTable td{
+	padding-left: 20px;
+}
+#mybadgestableOuter{
+	width:98%;
+	text-align:center;
+	margin-right: auto;
+	margin-left: auto;	
+	background-color:#eee;
+	border-radius:50px;
+	box-shadow:  0 0 7px 5px rgba(0,0,0,0.1);
+	border: 6px solid #fff;
+}
+#mybadgestable{
+	margin-right: auto;
+	margin-left: auto;	
+	width:30%;
+	text-align: center;
+	font-size: 13px;
+}
+#mybadgestable img{
+	border-radius:50px;
+	background-color:#fff
+}
+.MySkillsHeader{
+	text-align: center;
+	font-size: 15px;
+}
+#Skills{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	
+}
+.SkillsList{
+	border: 1px solid #e1e3e1;
+	box-shadow:  0 0 7px 5px rgba(0,0,0,0.1);
+	border-radius:0px;
+	margin-left: auto;
+	margin-right: auto;
+	width:80%;
+	padding-top: 10px;
+	padding-bottom:30px;
+}
+#Myskillouttable1{
+	width:80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Myskillouttable2{
+	width:79%;
+	margin-left: auto;
+	margin-right: auto;	
+}
+#Myskillouttable1 td{
+	padding-top:30px;
+	padding-bottom:10px;
+}
+#Myskillouttable2 td{
+	padding-top:30px;
+}
+.SkillHeading{
+	Text-align: center;
+	font-weight: bold;
+	font-size: 13px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+.skilldetails{
+	font-weight: normal;
+	font-size: 13px;
+	padding:5px;
+}
+#footers{
+	width:100%;
+	height:130px;
+	font-size: 13px;
+	text-align:right;
+	background-image:url("footer.png");
+	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+  	position: relative;
+}
+#footers td{
+	padding-top: 100px;
+	color: #eee;
+}
